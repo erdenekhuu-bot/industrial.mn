@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+                    <loc>https://ecommerce.infitech.mn:8005</loc>
+                    <priority>1.0</priority>
+                    <lastmod>2024-10-09</lastmod>
+                </url> <url>
+                    <loc>https://ecommerce.infitech.mn:8005/all-categories</loc>
+                    <priority>0.9</priority>
+                    <lastmod>2024-10-09</lastmod>
+                </url> <url>
+                    <loc>https://ecommerce.infitech.mn:8005/all-brands</loc>
+                    <priority>0.9</priority>
+                    <lastmod>2024-10-09</lastmod>
+                </url> <url>
+                        <loc>https://ecommerce.infitech.mn:8005/all-offers</loc>
+                        <priority>0.9</priority>
+                        <lastmod>2024-10-09</lastmod>
+                    </url> <url>
+                        <loc>https://ecommerce.infitech.mn:8005/all-blogs</loc>
+                        <priority>0.9</priority>
+                        <lastmod>2024-10-09</lastmod>
+                    </url> <url>
+                        <loc>https://ecommerce.infitech.mn:8005/page/return-policy</loc>
+                        <priority>0.9</priority>
+                        <lastmod>2021-11-18</lastmod>
+                    </url> <url>
+                        <loc>https://ecommerce.infitech.mn:8005/page/warranty-policy</loc>
+                        <priority>0.9</priority>
+                        <lastmod>2021-11-07</lastmod>
+                    </url> <url>
+                        <loc>https://ecommerce.infitech.mn:8005/page/terms-and-conditions</loc>
+                        <priority>0.9</priority>
+                        <lastmod>2021-10-06</lastmod>
+                    </url> <url>
+                        <loc>https://ecommerce.infitech.mn:8005/page/privacy-policy</loc>
+                        <priority>0.9</priority>
+                        <lastmod>2021-11-18</lastmod>
+                    </url> <url>
+                        <loc>https://ecommerce.infitech.mn:8005/page/about-us</loc>
+                        <priority>0.9</priority>
+                        <lastmod>2021-11-18</lastmod>
+                    </url> <url>
+                        <loc>https://ecommerce.infitech.mn:8005/page/pickup-policy</loc>
+                        <priority>0.9</priority>
+                        <lastmod>2024-05-19</lastmod>
+                    </url> </urlset>
